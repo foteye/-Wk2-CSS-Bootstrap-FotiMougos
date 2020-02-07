@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+}
+
+.navbar {
+    border-bottom: solid 1px grey;
+    background-color: lightblue !important;
+}
+
+.content {
+    padding: 0 20px;
+}
+
+#warhammer {
+    height: 100px;
+}
