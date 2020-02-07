@@ -18,3 +18,8 @@ body {
     max-height: 250px;
     margin: 0 10px 10px 0;
 }
+
+footer {
+    display: block;
+    background-color: lightgrey;
+}
