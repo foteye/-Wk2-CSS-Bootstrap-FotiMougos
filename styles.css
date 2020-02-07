@@ -3,14 +3,18 @@ body {
 }
 
 .navbar {
-    border-bottom: solid 1px grey;
     background-color: lightblue !important;
 }
 
 .content {
-    padding: 0 20px;
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    width: 80%;
+    border: solid 1px lightgrey;
 }
 
 #warhammer {
-    max-height: 300px;
+    max-height: 250px;
+    margin: 0 10px 10px 0;
 }
