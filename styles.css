@@ -19,6 +19,24 @@ body {
     margin: 0 10px 10px 0;
 }
 
+.portfolioImg {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.portfolioImgContainer{
+    margin-bottom: 20px;
+}
+
+.portfolioLabel{
+    position: relative;
+    width: 100%;
+    background-color: lightblue;
+    height: 1.5em;
+    bottom: 30%;
+}
+
 footer {
     display: block;
     background-color: lightgrey;
